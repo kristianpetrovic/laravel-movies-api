@@ -32,3 +32,7 @@ Accept: application/json<br>*
     "likes": 23,<br>
     "title": "First movie"<br>
 }*<br>
+
+#### Tests
+Run Unit tests:<br>
+**php artisan test**<br>
