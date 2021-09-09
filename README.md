@@ -13,12 +13,15 @@ Run in terminal:<br>
 
 Start project locally: **php artisan serve**
 
-Use Postman client to get, store, update and delete movies.
+Use Postman client to get, store, update and delete movies.<br>
+
 *Set Headers: <br>
 Content-type: application/json<br>
-Accept: application/json<br>
-POST json body example:<br>
-{<br>
+Accept: application/json<br>*
+
+*POST json body example:<br>*
+
+*{<br>
     "duration": 62,<br>
     "description": "this is the first movie",<br>
     "genre": "Action",<br>
