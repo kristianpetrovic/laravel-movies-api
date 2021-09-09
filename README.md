@@ -15,9 +15,9 @@ Start project locally: **php artisan serve**
 
 Use Postman client to get, store, update and delete movies.<br>
 
-Routes:<br><br>
-Get & Post: http://127.0.0.1:8000/api/movies/<br>
-Put, Show & Delete: http://127.0.0.1:8000/api/movies/{id}<br>
+Routes:<br>
+**Get & Post:** http://127.0.0.1:8000/api/movies/<br>
+**Put, Show & Delete:** http://127.0.0.1:8000/api/movies/{id}<br>
 
 *POST json body example:<br>*
 
