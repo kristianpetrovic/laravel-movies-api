@@ -3,15 +3,15 @@
 ### Installation
 
 Install and open the XAMPP, start Apache and Mysql.<br>
-Open in browser the http://localhost/phpmyadmin and create two databases: laravel_movies_api, movie-api-testing.
+Open in browser the http://localhost/phpmyadmin and create two databases: **laravel_movies_api**, **movie-api-testing**.
 
-Open the terminal and clone the project: git clone https://github.com/kristianpetrovic/laravel-movies-api.git<br>
+Open the terminal and clone the project: **git clone** https://github.com/kristianpetrovic/laravel-movies-api.git<br>
 Run in terminal:<br>
-composer install<br>
-npm install<br>
-npm run dev<br>
+**composer install**<br>
+**npm install**<br>
+**npm run dev**<br>
 
-Start project locally: php artisan serve
+Start project locally: **php artisan serve**
 
 Use Postman client to get, store, update and delete movies.
 
