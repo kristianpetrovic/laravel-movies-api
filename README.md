@@ -9,6 +9,7 @@ Open the terminal and clone the project: **git clone** https://github.com/kristi
 Run in terminal:<br>
 **cd laravel-movies-api**<br>
 **composer install**<br>
+**php artisan migrate**<br>
 **npm install**<br>
 **npm run dev**<br>
 
