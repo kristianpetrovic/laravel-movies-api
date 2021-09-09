@@ -7,6 +7,7 @@ Open in browser the http://localhost/phpmyadmin and create two databases: **lara
 
 Open the terminal and clone the project: **git clone** https://github.com/kristianpetrovic/laravel-movies-api.git<br>
 Run in terminal:<br>
+**cd laravel-movies-api**<br>
 **composer install**<br>
 **npm install**<br>
 **npm run dev**<br>
