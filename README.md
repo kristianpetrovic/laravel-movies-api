@@ -33,6 +33,6 @@ Accept: application/json<br>*
     "title": "First movie"<br>
 }*<br>
 
-#### Tests
+## Tests
 Run Unit tests:<br>
 **php artisan test**<br>
