@@ -10,8 +10,6 @@ Run in terminal:<br>
 **cd laravel-movies-api**<br>
 **composer install**<br>
 **php artisan migrate**<br>
-**npm install**<br>
-**npm run dev**<br>
 
 Start project locally: **php artisan serve**
 
